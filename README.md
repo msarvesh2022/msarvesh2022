@@ -1,4 +1,4 @@
-![logo](https://github.com/msarvesh2022/msarvesh2022/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
 <h3 align="center">A guy passionate about AI, ML, & Data Science</h3>
 
