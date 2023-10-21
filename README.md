@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
 <h3 align="center">A guy passionate about AI, ML, & Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msarvesh2022" alt="msarvesh2022" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
